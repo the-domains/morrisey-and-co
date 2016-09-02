@@ -1,40 +1,40 @@
-favicon: null
-name: 'Morrisey & Co.'
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+    permalink:
+      path: '/:title/'
 color:
   saturation: 0.8651987
-  brandStrength: 0.862323246197775
+  brandStrength: 1
   lightness: 0.6707841
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#FFFFFF'
+    - '#151515'
+    - '#4C5C6D'
+    - '#FCBF7E'
+    - '#717A8B'
   rhythmicContrast: 0.8319011
-typography_spectrum: 0.9081632
-layout_spectrum: 1
-analytics:
-  twitter: null
-  google: null
-  facebook: null
 cta:
   bucket: null
   version: null
   domain: null
+favicon: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: Morrisey & Co.
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.9081632
+layout_spectrum: 0.0209452
